@@ -1,12 +1,12 @@
-# BaskedProtocol
+# Basket Protocol
 
-BaskedProtocol is a fully on-chain decentralized finance (DeFi) protocol deployed on the Orai chain, designed to revolutionize how users invest in crypto assets. By leveraging index vaults, users can diversify their investments, maximize returns, and minimize risk, all through an easy-to-use and fully automated system.
+Basket Protocol is a fully on-chain decentralized finance (DeFi) protocol deployed on the Orai chain, designed to revolutionize how users invest in crypto assets. By leveraging index vaults, users can diversify their investments, maximize returns, and minimize risk, all through an easy-to-use and fully automated system.
 
 ## Overview
 
-### What is BaskedProtocol?
+### What is Basket Protocol?
 
-BaskedProtocol offers users the flexibility to invest in pre-defined index vaults or create custom vaults that suit their investment preferences. Whether you're looking to invest in a diversified basket of cryptocurrencies or curate your own portfolio, BaskedProtocol has you covered.
+Basket Protocol offers users the flexibility to invest in pre-defined index vaults or create custom vaults that suit their investment preferences. Whether you're looking to invest in a diversified basket of cryptocurrencies or curate your own portfolio, Basket Protocol has you covered.
 
 ### Key Features
 
@@ -22,7 +22,7 @@ BaskedProtocol offers users the flexibility to invest in pre-defined index vault
    - All transactions, vault creations, and AI adjustments are executed on-chain, ensuring transparency, security, and decentralization.
 
 4. **Yield Optimization**:  
-   - BaskedProtocol continuously monitors market conditions and automatically rebalances portfolios to maximize returns while minimizing exposure to risk.
+   - Basket Protocol continuously monitors market conditions and automatically rebalances portfolios to maximize returns while minimizing exposure to risk.
 
 ## How It Works
 
@@ -40,7 +40,7 @@ BaskedProtocol offers users the flexibility to invest in pre-defined index vault
 - **Step 3**: Deploy your vault on the Orai chain.
 - **Step 4**: Manage and optimize your vault using AI-driven tools.
 
-## Why BaskedProtocol?
+## Why Basket Protocol?
 
 - **Diversification**: Spread your investment across multiple assets to reduce risk.
 - **Customization**: Tailor your investments to match your unique goals.
@@ -56,10 +56,12 @@ BaskedProtocol offers users the flexibility to invest in pre-defined index vault
 
 ## Future Plans
 
-BaskedProtocol is committed to continuous development and innovation. Upcoming features include:
+Basket Protocol is committed to continuous development and innovation. Upcoming features include:
 
 - **Advanced AI Models**: More sophisticated AI models for deeper insights and better decision-making.
 - **Cross-Chain Compatibility**: Expanding support to multiple blockchain networks.
 - **Governance**: Decentralized governance to give users more control over the protocol's future.
 
+## License
 
+Basket Protocol is open-source and available under the MIT License.
